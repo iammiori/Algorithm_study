@@ -1,0 +1,23 @@
+# 모의고사 (완전탐색)
+
+<b>try #1</b>
+```
+def solution(answers):
+    supoja = [[1,2,3,4,5],
+             [2,1,2,3,2,4,2,5],
+             [3,3,1,1,2,2,4,4,5,5]]
+    max_arr = [0,0,0]
+    for i,ans in enumerate(answers):
+        #print(i,ans)
+        for j,pick in enumerate(supoja):
+            #print(j,pick)
+            if ans == pick[i%len(pick)]:
+                max_arr[j] += 1
+    answer = [k+1 for k,v in enumerate(max_arr) if v==max(max_arr)]
+    return answer
+```
+
+result : Accuracy 50/50 Efficiency 50/50 total 100/100
+<br><br>
+
+- 이 문제의 경우 index와 값을 동시에 받아와야 된다 생각해, ,<b>enumerate</b>를 사용하였다. 
