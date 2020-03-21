@@ -7,6 +7,10 @@
 - Overlapping SUbproblem (부분 문제 겹치는 경우)
 - Optimal Substructure (최적 부분 구조)
 
+## Memoization
+
+## LIS
+
 
 ### reference
 - https://developer-mac.tistory.com/77
