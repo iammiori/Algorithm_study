@@ -1,2 +1,2 @@
 # Algorithm_study
-## DP algoritm
+## BFS
