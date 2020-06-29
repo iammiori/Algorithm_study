@@ -4,4 +4,4 @@ I study algorithms.
 - Language
   1. python 
   2. c++ : trying;;
-- baekjoon
+- solve baekjoon
