@@ -5,3 +5,5 @@ I study algorithms.
   1. python 
   2. c++ : trying;;
 - solve baekjoon
+- solve CodeUp
+  1. c++ Practice (100question)
