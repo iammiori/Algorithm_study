@@ -3,5 +3,5 @@ I study algorithms.
 
 - Language
   1. python 
-  2. cpp : trying;;
-- baekjoon solve.
+  2. c++ : trying;;
+- baekjoon
