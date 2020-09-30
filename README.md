@@ -6,4 +6,4 @@ I study algorithms.
   2. c++ : trying;;
 - solve baekjoon
 - solve CodeUp
-  1. c++ Practice (100question)
+  1. c++ Practice (100 questions)
