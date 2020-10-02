@@ -7,3 +7,6 @@ I study algorithms.
 - solve baekjoon
 - solve CodeUp
   1. c++ Practice (100 questions)
+
+- reference
+  1. 안경잡이개발자
