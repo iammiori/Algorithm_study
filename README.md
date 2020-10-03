@@ -9,4 +9,4 @@ I study algorithms.
   1. c++ Practice (100 questions)
 
 - reference
-  1. 안경잡이개발자
+  1. 안경잡이개발자 (python)
