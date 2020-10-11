@@ -9,4 +9,4 @@ I study algorithms.
   1. c++ Practice (100 questions)
 
 - reference
-  1. 나동빈님 (python)
+  1. 나동빈님 이코테(python)
