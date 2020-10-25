@@ -10,4 +10,4 @@ I study algorithms.
 - python 주요 문법 정리 : 블로그
 
 - reference
-  1. 나동빈님 이코테(python)
+  1. 나동빈님 - 이코테(python)
