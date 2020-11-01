@@ -1,6 +1,8 @@
 import sys
 input = sys.stdin.readline
 
+#문자열로 바꿔서 푸는 방법
+
 def Solution(number):
 	# 3 6 9
 	# 23 53 33
