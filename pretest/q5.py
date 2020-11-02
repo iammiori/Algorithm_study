@@ -32,7 +32,5 @@ def Solution2(number):
 if __name__ == '__main__':
 	number = int(input())
 	print(Solution(number))
-<<<<<<< HEAD
 	print(Solution2(number))
-=======
->>>>>>> 1cfedc8026968054575bd089bdd85cdb0194737c
+
