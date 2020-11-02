@@ -16,6 +16,18 @@ def Solution(number):
 				clap +=1
 	return clap
 
+# 숫자로 해결
+def Solution2(number):
+	clap = 0
+	for i in range(1,number+1):
+		curr = i
+		while curr != 0 :
+			if curr % 10 == 3 or curr % 10 == 6 or curr % 10 == 9:
+				clap += 1
+			curr //= 10
+	return clap
+
 if __name__ == '__main__':
 	number = int(input())
 	print(Solution(number))
+	print(Solution2(number))
