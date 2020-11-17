@@ -1,6 +1,6 @@
 # Algorithm_study
 I study algorithms.
-
+(1일 3문제 지키자)
 - Language
   1. python : main 👍👍👍👍
   2. c++ : trying;; 👍
@@ -9,6 +9,7 @@ I study algorithms.
   1. c++ Practice (100 questions)
   2. python
 - python 주요 문법 정리 : 블로그링크
+
 
 - reference
   1. 나동빈님 - 이코테(python)
