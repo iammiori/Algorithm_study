@@ -3,7 +3,7 @@ I study algorithms.
 (1일 3문제 지키자)
 - Language
   1. python : main 👍👍👍👍
-  2. c++ : trying;; 👍
+  2. c++ : later...👍
 - solve baekjoon (python)
 - solve CodeUp
   1. c++ Practice (100 questions)
