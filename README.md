@@ -1,6 +1,6 @@
 # Algorithm_study
 I study algorithms.
-(1일 3문제 지키자)
+
 - Language
   1. python : main 👍👍👍👍
   2. c++ : later...👍
