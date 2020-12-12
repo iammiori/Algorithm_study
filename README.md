@@ -2,7 +2,7 @@
 I study algorithms.
 
 - Language
-  1. python : main 👍👍👍👍
+  1. python : main 
   2. c++ : later...
 - solve baekjoon (python)
 - solve CodeUp
