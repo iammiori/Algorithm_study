@@ -1,5 +1,5 @@
 # Algorithm_study
-I study algorithms.
+
 
 - Language
   1. python : main 
