@@ -2,7 +2,7 @@
 
 
 - Language
-  1. python : main 
+  1. python : main👍
   2. c++ 
 - solve baekjoon (python)
 - solve CodeUp
