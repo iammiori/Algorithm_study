@@ -10,5 +10,8 @@
 - python 주요 문법 정리 : 블로그
 
 
+## 정리
+- dp
+
 - reference
   1. 나동빈님 - 이코테(python)
