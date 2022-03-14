@@ -4,6 +4,7 @@
 - Language
   1. python : main
   2. c++ 
+  3. Swift 🔥🔥 try try !
 - solve baekjoon (python)
 - solve CodeUp
   1. c++ Practice (100 questions)
