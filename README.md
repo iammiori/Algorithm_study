@@ -1,5 +1,6 @@
-# Algorithm_study
+# Algorithm_TIL
 
+재가동 : 220809 ~
 
 - Language
   1. python : main
